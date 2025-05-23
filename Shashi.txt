@@ -1,1 +1,5 @@
 Hi
+
+git add
+git commit -m  "my msg"
+git push
